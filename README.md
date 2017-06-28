@@ -5,11 +5,11 @@ In this MK users can annotate VCF files using Variant Effect Predictor http://ww
 
 Its necessary to previously  have installed VEP databases. The MK annotation will generate a TSV file having the biological information listed at the end. 
 
-For this MK:
+ For this MK:
 
-targets/     VCF files to annotate
-results/	      TAB sep files with annotation 
-results/	      summary of variants for each file 
+ targets/     VCF files to annotate
+ results/	      TAB sep files with annotation 
+ results/	      summary of variants for each file 
 
 
 
