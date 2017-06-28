@@ -7,7 +7,7 @@ Its necessary to previously  have installed VEP databases. The MK annotation wil
 
  For this MK:
 
- targets/     VCF files to annotate
+ <dt> targets/     VCF files to annotate </dt>
  results/	      TAB sep files with annotation 
  results/	      summary of variants for each file 
 
