@@ -8,12 +8,12 @@ Its necessary to previously  have installed VEP databases. The MK annotation wil
  For this MK:
 
  <dt> targets/	VCF files to annotate </dt>
- <dt> results/	TAB sep files with annotation <\dt>
- <dt> results/	summary of variants for each file  <\dt>
+ <dt> results/	TAB sep files with annotation </dt>
+ <dt> results/	summary of variants for each file  </dt>
 
 
 
-Annotations added: 
+### Annotations added:
 
 
 1. Uploaded_variation : Identifier of uploaded variant
