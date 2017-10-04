@@ -1,0 +1,7 @@
+#!/bin/sh
+
+find -L data/ \
+        -name '*.vcf.gz' \
+| sed -r \
+	-e 's#^data/#results/#g' \
+	-e 's#\.vcf.gz$#.vep.tsv#g'

@@ -1,7 +1,1 @@
-#!/bin/sh
-
-find -L data/ \
-        -name '*.vcf' \
-| sed -r \
-        -e 's#^data/#results/#g' \
--e 's#.vcf#.vep.vcf#g'
+targets-tsv
