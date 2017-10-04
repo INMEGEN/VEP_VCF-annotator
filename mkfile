@@ -1,4 +1,4 @@
-<config.mk
+< config.mk
 
 all:V:
 	./bin/targets | xargs mk
